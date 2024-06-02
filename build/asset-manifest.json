@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b82d4ebe.css",
+    "main.js": "/static/js/main.94e23a0f.js",
+    "static/js/453.2f98d6a9.chunk.js": "/static/js/453.2f98d6a9.chunk.js",
+    "static/media/support.jpg": "/static/media/support.d51ee1ac378d5eeae628.jpg",
+    "static/media/franchise.jpg": "/static/media/franchise.d04e468563385dfae986.jpg",
+    "static/media/iceCreamFactory.jpg": "/static/media/iceCreamFactory.0b47ad07f3ebfe6e0902.jpg",
+    "static/media/communitySupport.jpg": "/static/media/communitySupport.608508e90a6e808e711f.jpg",
+    "static/media/logo.webp": "/static/media/logo.822f36374315b006d325.webp",
+    "static/media/back1.jpg": "/static/media/back1.86423f9f4f9858240430.jpg",
+    "static/media/globalPresence.jpg": "/static/media/globalPresence.5564c2bc879a84893366.jpg",
+    "static/media/benefits.jpg": "/static/media/benefits.753808c30331df215ebc.jpg",
+    "index.html": "/index.html",
+    "main.b82d4ebe.css.map": "/static/css/main.b82d4ebe.css.map",
+    "main.94e23a0f.js.map": "/static/js/main.94e23a0f.js.map",
+    "453.2f98d6a9.chunk.js.map": "/static/js/453.2f98d6a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b82d4ebe.css",
+    "static/js/main.94e23a0f.js"
+  ]
+}
